@@ -1,5 +1,5 @@
 # change the followings to match your Github username and repo name
-baseurl: "/landing" # the name of your github repo
+baseurl: "/" # the name of your github repo
 url: "https://ravelmade.com" # the url of your github pages
 
 # site information used in page title, meta data etc.
@@ -20,8 +20,6 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Bitcoin
-  permalink: bitcoin
 - text: Blog
   permalink: blog
 
